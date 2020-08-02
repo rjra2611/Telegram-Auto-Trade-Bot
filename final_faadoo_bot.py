@@ -29,7 +29,7 @@ names_list = ['3mindia', '63moons', 'aartiind', 'aban', 'abb', 'abfrl', 'acc', '
 
 
 api_k = "nq31y6ndsyyqwdbc"  # id
-api_s = "5qmzojs1srptl5bhrgz1k13kyjip9tfu"  # pass
+api_s = "Enter your secret key"  # pass
 quantity = 1
 
 
